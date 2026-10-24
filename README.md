@@ -9,10 +9,10 @@ Ela mede antes de mexer, procura no [skills.sh](https://skills.sh) as skills esp
 No terminal:
 
 ```bash
-npx skills add ReeiKing/kingskill
+npx skills add ReeiKing/kingskill -g
 ```
 
-Ou peça direto no Claude Code: *"instala a skill github.com/ReeiKing/kingskill"*.
+O `-g` instala para todos os projetos. Ou peça direto no Claude Code: *"instala globalmente a skill github.com/ReeiKing/kingskill"*.
 
 Depois, abra o Claude Code de novo.
 
